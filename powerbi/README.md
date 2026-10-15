@@ -1,6 +1,6 @@
 # Power BI Report
 
-This folder documents the report layer of the project: pages, visuals, and custom tooltips. The model behind it (star schema, storage modes, aggregations, measures) is described in [../docs/data-model.md](../docs/data-model.md).
+This folder documents the report layer of the project: pages, visuals, and custom tooltips. The model behind it (star schema, storage modes, aggregations, measures) is described in [../docs/README.md](../docs/README.md).
 
 ## Report pages
 
