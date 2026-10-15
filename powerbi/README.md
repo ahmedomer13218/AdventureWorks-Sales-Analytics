@@ -64,7 +64,7 @@ Compares the sales groups (Europe, North America, Pacific).
 
 ### 5. TerritoriesPerformance
 
-![GroupsPerformance](screenshots/TerritoriesPerformance.png)
+![TerritoriesPerformance](screenshots/TerritoriesPerformance.png)
 
 Same layout and visuals as **GroupsPerformance**, but at the **territory** level, so individual territories can be compared in the same way.
 
