@@ -26,7 +26,7 @@ AdventureWorks2022 (SQL Server)
 Power BI Desktop
         |  Power Query (M): cleaning and transformation
         |  Semantic model: relationships, storage modes, aggregations
-        |  DAX measures                       -> /docs/data-model.md
+        |  DAX measures                       -> /docs/README.md
         v
 Report pages and custom tooltips              -> /powerbi
 ```
@@ -42,9 +42,9 @@ Report pages and custom tooltips              -> /powerbi
 
 The fact table carries three dates (order, due, ship) and uses a single date dimension with one active and two inactive relationships.
 
-![Data model](docs/data-model.png)
+![Data model](docs/README.png)
 
-Full details are in **[docs/data-model.md](docs/data-model.md)**: tables, columns, relationships, storage modes, aggregation grain, and measures.
+Full details are in **[docs/README.md](docs/README.md)**: tables, columns, relationships, storage modes, aggregation grain, and measures.
 
 ## Key techniques
 
@@ -76,7 +76,7 @@ Every page is described in **[powerbi/README.md](powerbi/README.md)**.
 │   ├── README.md           Report pages, tooltips, and visuals
 │   └── screenshots/        Report screenshots
 └── docs/
-    ├── data-model.md       Detailed data model documentation
+    ├── README.md       Detailed data model documentation
     └── data-model.png      Data model diagram
 ```
 
