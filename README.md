@@ -93,4 +93,4 @@ Every page is described in **[powerbi/README.md](powerbi/README.md)**.
 
 **[Ahmed Omar]**
 
-- LinkedIn: [[LinkedIn profile](www.linkedin.com/in/ahmed-mohammed-omar-439ab6277)]
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ahmed-mohammed-omar-439ab6277/)
