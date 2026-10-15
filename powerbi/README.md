@@ -70,7 +70,7 @@ Same layout and visuals as **GroupsPerformance**, but at the **territory** level
 
 ### 6. Details
 
-![GroupsPerformance](screenshots/Detials.png)
+![Details](screenshots/Detials.png)
 
 Order-level detail view. Users can narrow the orders using filters on:
 
