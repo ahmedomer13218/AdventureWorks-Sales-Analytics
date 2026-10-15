@@ -42,7 +42,7 @@ Report pages and custom tooltips              -> /powerbi
 
 The fact table carries three dates (order, due, ship) and uses a single date dimension with one active and two inactive relationships.
 
-![Data model](docs/README.png)
+![Data model](docs/data-model.png)
 
 Full details are in **[docs/README.md](docs/README.md)**: tables, columns, relationships, storage modes, aggregation grain, and measures.
 
