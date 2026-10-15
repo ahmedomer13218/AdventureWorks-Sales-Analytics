@@ -85,7 +85,7 @@ Every page is described in **[powerbi/README.md](powerbi/README.md)**.
 1. Install SQL Server and restore the **AdventureWorks2022** database.
 2. Run the scripts in [`/sql`](sql) to create the `vw_*` views.
 3. Open Power BI Desktop and connect to your SQL Server instance and database.
-4. Load the views and apply the relationships, storage modes, and aggregation settings described in [docs/data-model.md](docs/data-model.md).
+4. Load the views and apply the relationships, storage modes, and aggregation settings described in [docs/README.md](docs/README.md).
 
 ## Tech stack
 
