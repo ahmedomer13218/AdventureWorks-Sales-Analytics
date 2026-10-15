@@ -1,7 +1,3 @@
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # AdventureWorks Sales Analytics: Power BI Data Modeling Deep Dive
 
 An end-to-end Power BI project built on the **AdventureWorks2022** SQL Server database. The focus is **semantic-model design and performance**: a star schema built with SQL views, mixed storage modes (Import, DirectQuery, Dual), and a user-defined aggregation table, with a report layer that covers time-series analysis, forecasting, group and territory performance, and custom tooltips.
